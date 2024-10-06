@@ -1,0 +1,1 @@
+node --experimental-strip-types --env-file=config.env .\src\index.ts
